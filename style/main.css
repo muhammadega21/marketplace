@@ -12013,4 +12013,8 @@ footer p {
   background: #29A867;
   color: #fefefe;
   margin-left: -10px;
+}
+.navbar-store .navbar-fixed-top.scollerd {
+  background-color: #fff;
+  transition: background-color 200ms linear;
 }/*# sourceMappingURL=main.css.map */

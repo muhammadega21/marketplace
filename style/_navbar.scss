@@ -29,4 +29,9 @@
         color: #fefefe;
         margin-left: -10px;
     }
+
+    .navbar-fixed-top.scollerd{
+        background-color: #fff;
+        transition: background-color 200ms linear;
+    }
 }
